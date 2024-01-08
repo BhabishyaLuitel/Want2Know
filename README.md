@@ -21,7 +21,7 @@ Ensure you have the following installed:
 ### Setting Up the Environment
 1. **Clone the Repository**
    ```
-   git clone https://github.com/your-username/Want2Know.git
+   git clone https://github.com/BhabishyaLuitel/Want2Know.git
    ```
 2. **Navigate to the Project Directory**
    ```
@@ -84,6 +84,6 @@ Ensure you have the following installed:
 - [MongoDB Documentation](https://docs.mongodb.com/)
 
 ## 🆘 Support
-For queries or issues, feel free to contact us at [email@example.com].
+For queries or issues, feel free to contact us at [bhabishyaluitel@gmail.com].
 
 ---
