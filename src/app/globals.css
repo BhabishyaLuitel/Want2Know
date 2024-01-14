@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 :root {
     --bg: white;
     --textColor: black;
@@ -85,25 +84,3 @@
   .quill > .ql-container > .ql-editor.ql-blank::before{
     color: #b3b3b1;
   }
-=======
-@tailwind base;
-@tailwind components;
-@tailwind utilities;
-
-:root {
-  --foreground-rgb: 0, 0, 0;
-  --background-start-rgb: 214, 219, 220;
-  --background-end-rgb: 255, 255, 255;
-}
-
-@media (prefers-color-scheme: dark) {
-  :root {
-    --foreground-rgb: 255, 255, 255;
-    --background-start-rgb: 0, 0, 0;
-    --background-end-rgb: 0, 0, 0;
-  }
-}
-
-body {
-}
->>>>>>> 6b4599e5688a37e9bfbd18cf2c00135b0f1fd3d2
