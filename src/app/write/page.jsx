@@ -113,7 +113,7 @@ const WritePage = () => {
       </select>
       <div className={styles.editor}>
         <button className={styles.button} onClick={() => setOpen(!open)}>
-          <Image src="/plus.png" alt="" width={16} height={16} />
+          <Image src="/plus.jpg" alt="" width={16} height={16} />
         </button>
         {open && (
           <div className={styles.add}>
