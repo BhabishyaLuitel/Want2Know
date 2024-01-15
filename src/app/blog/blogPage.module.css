@@ -6,7 +6,7 @@
     text-transform: capitalize;
   }
   
-  .content{
-    display: flex;
-    gap: 50px;
-  }
+.content{
+   display: flex;
+   gap: 50px;
+ }
